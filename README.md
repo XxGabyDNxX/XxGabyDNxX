@@ -28,11 +28,4 @@
   ![Snake animation](https://github.com/XxGabyDNxX/XxGabyDNxX/blob/output/github-contribution-grid-snake.svg)
   </div>
 
- <p align="center"> 
 
- ## Total de pessoas que viram meu perfil <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/XxGabyDNxX/count.svg" />
- </p>
-
-</p>
