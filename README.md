@@ -3,7 +3,6 @@
 - 🔭 Atualmente estudando na alura
 - 🌱 Aprendendo sobre Front-end
 - 📫 Instagram: [Gabu](https://www.instagram.com/gabryel_dn1/) 
-- 📫 Discord: [Servidor](https://discord.gg/fpAdfBSxyw)
 
  <div>
   <a href="https://github.com/XxGabyDNxX">
