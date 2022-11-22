@@ -1,29 +1,27 @@
-### Me chamo Gabu e seja Bem-Vindo(a) ao meu perfil!
+# 💫 About Me:
 
-- 🔭 Atualmente estudando na alura
-- 🌱 Aprendendo sobre Front-end
-- 📫 Instagram: [Gabu](https://www.instagram.com/gabryel_dn1/) 
+Hi! My name is Gabryel, I'm 17 years old and I live in Brazil.<br><br> I'm currently studying programming with the aim of becoming a Full-Stack developer, I have a good knowledge of HTML5, CSS3 and Javascript. <br>During 2021, I took an online Computer Science course through the #TeuFuturo program with the right to a certificate at the end of the course. <br><br>Here on my Github profile you can see some of my projects I've done and some to come. 
 
- <div>
-  <a href="https://github.com/Gabuabuu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabuabuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabuabuu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-  <div>
-  <a href="https://www.instagram.com/gabryel_dn1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/599340130045526048/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabydavilaneves@gmail.com
-"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-  ![Snake animation](https://github.com/Gabuabuu/Gabuabuu/blob/output/github-contribution-grid-snake.svg)
-  </div>
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/gabryel_dn1?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabryel-neves) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtube.com/@Gabuaabu) 
+
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Gabuabuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gabuabuu&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabuabuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Gabuabuu&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
